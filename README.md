@@ -1,11 +1,13 @@
 
 ----- Discription: ------
 
-This plugin give you ability to remap keys of choice to control the windows media keys for:
+This plugin give you ability to remap device of choice to control the windows media keys for:
 
-Volume_Up
-Volume_Down
-Volume_Mute
+- Volume_Up
+- Volume_Down
+- Volume_Mute
+
+You can use with any joysticks, racing wheels... etc. Anything really.
 
 ----- Install: ----- 
 
@@ -16,4 +18,4 @@ you have grimlin installed and place in the action plugins folder, something lik
 
 Have any issues let me know, thanks!
 
-- PINKgeekPDX
+> PINKgeekPDX
