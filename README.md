@@ -1,7 +1,16 @@
+> --------------------------------
+> 
+> This is a simple volume control
+> plugin made for:
+> 
+> - Joystick Gremlin
+> - Joystick Gremlin EX
+>
+> --------------------------------
 
-> ----- Discription: ------
+> -------- Discription: ----------
 
-This plugin give you ability to remap device of choice to control the windows media keys for:
+This plugin will give you the ability to remap device of choice to control the windows media keys for:
 
 - Volume_Up
 - Volume_Down
@@ -9,12 +18,12 @@ This plugin give you ability to remap device of choice to control the windows me
 
 You can use with any joysticks, racing wheels... etc. Anything really.
 
-> ----- Install: ----- 
+>----------- Install: ----------- 
 
 To add the plugin to joystick gremlin copy the volume-control-plugin with its contents to the location
 you have grimlin installed and place in the action plugins folder, something like 'joystick_gremlin\_internal\action_plugins'.
 
-> ----- About: -----
+> ------------ About: -----------
 
 Have any issues let me know, thanks!
 
